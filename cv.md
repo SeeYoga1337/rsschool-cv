@@ -17,9 +17,9 @@
 
 
 ### Languages
-*Russian
-*English
-*Belarussian
+* Russian
+* English
+* Belarussian
 
 
 
